@@ -52,3 +52,4 @@ kubectl apply -f k8s/service.yaml
 - Liveness/Readiness probe는 Actuator의 `/actuator/health/liveness`, `/actuator/health/readiness`를 사용합니다.
 - Poll SCM 실습 확인
 webhook test
+webhook test
